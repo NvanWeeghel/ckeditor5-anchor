@@ -14,7 +14,7 @@ This library needs CKEditor5 in order to work properly.
 
 Add ckeditor5 anchor as dependency in package.json:
 ```
-"@ckeditor/ckeditor5-anchor": "bvedad/ckeditor5-anchor",
+"@ckeditor/ckeditor5-anchor": "nvanweeghel/ckeditor5-anchor",
 ```
 
 Import package
@@ -42,4 +42,4 @@ ClassicEditor
 
 * CKEditor5 anchor feature
 
-<a href="https://www.buymeacoffee.com/bvedad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
